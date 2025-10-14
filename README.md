@@ -32,6 +32,8 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologías conocidas</b>
 <br>
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 - Frontend
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,figma)](https://skillicons.dev)
@@ -56,7 +58,7 @@
 <br>
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/VGFernandezMedina">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VGFernandezMedina&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VGFernandezMedina&layout=compact&langs_count=8&theme=algolia"/>
 </a>
