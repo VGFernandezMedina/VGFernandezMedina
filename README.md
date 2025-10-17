@@ -36,7 +36,7 @@
 
 - Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap,figma,cpp)](https://skillicons.dev)
   
 - Backend
 
@@ -49,7 +49,7 @@
 
 - Aprendiendo
 
-[![My Skills](https://skillicons.dev/icons?i=wordpress,tailwind,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=wordpress,tailwind,ts,angular,nextjs)](https://skillicons.dev)
 
 <br>
 
