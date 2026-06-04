@@ -70,5 +70,5 @@
 
 ---
 
-Última edición: 14/10/2025
+Última edición: 04/06/2026
 
