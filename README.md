@@ -44,7 +44,7 @@
 
 - Herramientas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,powershell,bash,vscode,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,powershell,bash,vscode,npm,postman)](https://skillicons.dev)
 
 
 - Aprendiendo
@@ -70,5 +70,5 @@
 
 ---
 
-Última edición: 04/06/2026
+Última edición: 04/07/2026
 
