@@ -22,7 +22,7 @@
 - :mortar_board: Certificado en Desarrollo Full Stack por [RollingCode School](https://web.rollingcodeschool.com/).
 - :house_with_garden: Viviendo en Tucumán, Argentina.
 - :briefcase: Actualmente estoy abierto a nuevas oportunidades laborales.
-- :mailbox_with_mail: Pueden ver mi [Curriculum](https://drive.google.com/file/d/1AqtmWbXQF5vASJYgQAR--Tt67WkJ-TK3/view?usp=sharing), mi [Linkedin(https://www.linkedin.com/in/vgabriel-fernandezm/)] y mi [Portafolio](https://gabrielfm-dev.netlify.app/) en estos enlaces.
+- :mailbox_with_mail: Pueden ver mi [Curriculum](https://drive.google.com/file/d/1AqtmWbXQF5vASJYgQAR--Tt67WkJ-TK3/view?usp=sharing), mi [Linkedin](https://www.linkedin.com/in/vgabriel-fernandezm/) y mi [Portafolio](https://gabrielfm-dev.netlify.app/) en estos enlaces.
 - :speech_balloon: Sobre cualquier discusión o consulta que tengas no dudes en contactarme, "El conocimiento que no se comparte pierde su valor".
 - :bowling: Datos curiosos: :soccer::video_game::clapper::hamburger::beer::cat::dog:
 
